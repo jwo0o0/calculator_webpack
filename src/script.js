@@ -1,3 +1,5 @@
+require('./style.css');
+
 const calculator = document.querySelector('.calculator'); 
 const buttons = calculator.querySelector('.calculator__buttons'); 
 
